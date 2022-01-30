@@ -11,10 +11,11 @@ we can see here ride summary in the bellow DataFrame :
  ![PyBer_Analysis)](/Resources/Ride_summary.png)
 
  The "Toal Fares by City Type" graph shows the differences in weekly total fares from January to April. Urban cities have the highest total fares ranging from $1,661.68 to $2,470.93 as shown by the yellow line. The red line shows that the total fares in suburban cities which ranges from $721.60 to $1,412.74 on a weekly basis. The lowest total fares is depicted by the blue line for rural cities and ranges from $67.65 to $501.24. In late February, the total fares in all types of cities seem to be at their highest. The relationship between total fares and date is depicted in the graph below:
- Finally we can see in this line chart *** Urban *** area is the highest total Fare by City Type.
+ 
 
 ![PyBer_Analysis)](/analysis/PyBer_fare_summary.png)
  
+ Finally we can see in this line chart *** Urban *** area is the highest total Fare by City Type.
  # Summary : 
 
 1. Based on the results, one recommendation to the CEO for addressing disparities among the city types is hiring more drivers in rural and suburban cities or cutting down the number of drivers in urban cities. This would help even out the total number of drivers and the average fare per driver in each type of city.
